@@ -1,0 +1,13 @@
+pandas_ta
+ta
+arch
+yfinance
+alpaca-trade-api
+pandas
+numpy
+statsmodels
+sklearn
+scikit-learn
+pandas_market_calendars
+pydantic
+tqdm
